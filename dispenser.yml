@@ -1,0 +1,39 @@
+---
+dispenser:
+- x: 133
+  "y": 64
+  z: 117
+  level: world
+- x: 134
+  "y": 64
+  z: 122
+  level: world
+- x: 133
+  "y": 64
+  z: 124
+  level: world
+- x: 134
+  "y": 64
+  z: 121
+  level: world
+- x: 134
+  "y": 64
+  z: 120
+  level: world
+- x: 134
+  "y": 64
+  z: 119
+  level: world
+- x: 132
+  "y": 64
+  z: 117
+  level: world
+- x: 131
+  "y": 64
+  z: 117
+  level: world
+- x: 130
+  "y": 64
+  z: 117
+  level: world
+...

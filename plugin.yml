@@ -1,0 +1,19 @@
+name: DispenserReset
+main: DispenserReset\Main
+version: "1.0.0"
+author: linuzo
+api: [1.0.0]
+load: POSTWORLD
+commands:
+ dr:
+  permission: DispenserReset.command
+  description: Main command
+  usage: /dr <add|remove|reload|reset>
+permissions:
+ DispenserReset.*:
+  default: op
+  description: Main permission
+  children:
+   DispenserReset.command.*:
+    default: op
+    description: use commands
